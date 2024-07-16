@@ -1,4 +1,4 @@
-Data Analytics Course Material
+Data Analytics Course Material - Coding Ninjas
 -Python - Numpy, Pandas, Matplotlib
 -SQL
 -Machine Learning
